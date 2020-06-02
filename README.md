@@ -9,7 +9,7 @@ Navigate to the [tekton-toolchain](https://github.com/IBM-Cloud/tekton-toolchain
 If warnings or errors `Continuous Delivery service required...` are displayed you can live with the warnings or create a [Continuous Delivery](https://cloud.ibm.com/catalog/services/continuous-delivery) service (Lite plan) for the region.
 
 ## Labs
-The following labs will introduce you to the ibm Tekton framework:
+The following labs will introduce you to the IBM Tekton framework:
 - [Lab 1 Simple getting Started](lab1-simple/README.md)
 - [Lab 2 Parameters](lab2-parameters/README.md)
 - [Lab 3 Workspaces](lab3-workspaces/README.md)
